@@ -1,9 +1,9 @@
-### Emotion Detection System
+# Emotion Detection System
 
 ## Introduction
 This project involves building an emotion detection system using IBM Watson Embedded AI and BERT (Bidirectional Encoder Representations from Transformers). The application analyzes the text input to detect the underlying emotions such as happiness, sadness, anger, etc.
 
-### Features
+## Features
 * **Emotion Detection**: Analyzes text input to detect emotions using the BERT model and IBM Watson.
 * **Web Interface**: User-friendly web interface for entering text and displaying results.
 * **Powered by IBM Watson and BERT**: Utilizes IBM Watson's and BERT's advanced natural language processing capabilities.
